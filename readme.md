@@ -1,6 +1,6 @@
-### 🤔 What this?
+### 🤔 What's this?
 
-This is a place for storing documentation/notes for [ReactGVL](). Pull requests are welcome!
+This is a place for documentation/notes for [ReactGVL](https://www.meetup.com/ReactGVL/). Pull requests are welcome!
 
 ### 📝 Writings
 
